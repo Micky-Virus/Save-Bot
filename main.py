@@ -251,34 +251,32 @@ def get_message_type(msg: pyrogram.types.messages_and_media.message.Message):
 
 Powered By :- @DoraBot_Network
 
-USAGE GUIDE – Send Telegram Posts Easily
-FOR PUBLIC CHATS
-Just send the post(s) link.
+USAGE = """**FOR PUBLIC CHATS**
 
-https://t.me/channel_username/1234
+__just send post/s link__
 
-FOR PRIVATE CHATS
-First, send the invite link of the chat
-(Skip if the account is already a member)
-Then send the post(s) link.
+**FOR PRIVATE CHATS**
 
-Invite: https://t.me/+xyzxyzxyz  
-Post: https://t.me/c/xxxx/101
+__first send invite link of the chat (unnecessary if the account of string session already member of the chat)
+then send post/s link__
 
-FOR BOT CHATS
-Send the post link in the following format:
+**FOR BOT CHATS**
 
+__send link with '/b/', bot's username and message id, you might want to install some unofficial client to get the id like below__
 
 https://t.me/b/botusername/4321
 
-You may need an unofficial Telegram client to get the message ID.
 
-FOR MULTIPLE POSTS
-Use this format to send multiple messages:
+**MULTI POSTS**
 
+__send public/private posts link as explained above with formate "from - to" to send multiple messages like below__
 
-https://t.me/channel/1001-1010  
+https://t.me/xxxx/1001-1010
+
 https://t.me/c/xxxx/101 - 120
 
+
+__note that space in between doesn't matter__
+"""
 # infinty polling
 bot.run()
