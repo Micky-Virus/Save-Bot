@@ -257,7 +257,7 @@ USAGE = """Powered By :- @Dora_Bot_Network
 🟢 Just send the post(s) link.
 ```
 https://t.me/channel_username/1234
-
+```
 🔐 FOR PRIVATE CHATS
 1️⃣ First, send the invite link of the chat
 (Skip if the account is already a member)
