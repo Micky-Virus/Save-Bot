@@ -250,30 +250,31 @@ def get_message_type(msg: pyrogram.types.messages_and_media.message.Message):
 	except: pass
 
 Powered By :- @DoraBot_Network
-🚀 USAGE GUIDE – Send Telegram Posts Easily
-📢 FOR PUBLIC CHATS
-🟢 Just send the post(s) link.
+
+USAGE GUIDE – Send Telegram Posts Easily
+FOR PUBLIC CHATS
+Just send the post(s) link.
 
 https://t.me/channel_username/1234
 
-🔐 FOR PRIVATE CHATS
-1️⃣ First, send the invite link of the chat
+FOR PRIVATE CHATS
+First, send the invite link of the chat
 (Skip if the account is already a member)
-2️⃣ Then send the post(s) link.
+Then send the post(s) link.
 
 Invite: https://t.me/+xyzxyzxyz  
 Post: https://t.me/c/xxxx/101
 
-🤖 FOR BOT CHATS
-📎 Send the post link in the following format:
+FOR BOT CHATS
+Send the post link in the following format:
 
 
 https://t.me/b/botusername/4321
 
-💡 You may need an unofficial Telegram client to get the message ID.
+You may need an unofficial Telegram client to get the message ID.
 
-📚 FOR MULTIPLE POSTS
-📝 Use this format to send multiple messages:
+FOR MULTIPLE POSTS
+Use this format to send multiple messages:
 
 
 https://t.me/channel/1001-1010  
